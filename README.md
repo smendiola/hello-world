@@ -1,2 +1,2 @@
 # hello-world
-Start project
+Initial hello-world project
